@@ -1,0 +1,49 @@
+/* CreateQuestion.css */
+.create-question-container {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  border-radius: 8px;
+  width: fit-content;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.full-button {
+  background-color: #4b4f56;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin-bottom: 20px;
+  cursor: not-allowed;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.continue-button {
+  background-color: #61dafb;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.continue-button:hover {
+  background-color: #21a1f1;
+}
